@@ -1,13 +1,13 @@
 #' The myci function. Creates a confidence interval of the sample mean.
 #'
 #' @param d a vector sample.
-#' @param confInt the confidence interval. from 0 - 1. Example 0.95 for 95% c.i.
+#' @param confInt the confidence interval. from 0 - 1.
 #'
 #' @return A confidence interval of the sample mean returned as a vector upper, lower
 #' @export
 #'
 #' @examples
-#' myci(d, .95)
+#' myci(d, 0.95)
 
 myci=function(d, confInt) {
   n = length(d)

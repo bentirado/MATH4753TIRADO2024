@@ -9,7 +9,7 @@ myci(d, confInt)
 \arguments{
 \item{d}{a vector sample.}
 
-\item{confInt}{the confidence interval. from 0 - 1. Example 0.95 for 95% c.i.}
+\item{confInt}{the confidence interval. from 0 - 1.}
 }
 \value{
 A confidence interval of the sample mean returned as a vector upper, lower
@@ -18,5 +18,5 @@ A confidence interval of the sample mean returned as a vector upper, lower
 The myci function. Creates a confidence interval of the sample mean.
 }
 \examples{
-myci(d, .95)
+myci(d, 0.95)
 }
