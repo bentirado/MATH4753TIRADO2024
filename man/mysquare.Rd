@@ -2,7 +2,7 @@
 % Please edit documentation in R/mysquare.R
 \name{mysquare}
 \alias{mysquare}
-\title{The Square Function}
+\title{The Square Function.}
 \usage{
 mysquare(x)
 }
@@ -13,7 +13,7 @@ mysquare(x)
 a vector
 }
 \description{
-The Square Function
+The Square Function.
 }
 \examples{
 mysquare(x = 1:10)

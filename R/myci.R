@@ -1,9 +1,9 @@
 #' The myci function. Creates a confidence interval of the sample mean.
 #'
 #' @param d a vector sample.
-#' @param confInt the confidence interval. from 0 - 1
+#' @param confInt the confidence interval. from 0 - 1. Example 0.95 for 95% c.i.
 #'
-#' @return A confidence interval of the sample mean.
+#' @return A confidence interval of the sample mean returned as a vector upper, lower
 #' @export
 #'
 #' @examples

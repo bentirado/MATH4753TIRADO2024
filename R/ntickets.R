@@ -4,7 +4,7 @@
 #' @param gamma an integer between 0 <= gamma <= 1 which is the probability that the plane will be overbooked
 #' @param p an integer between 0<= p <= 1 which is the probability that a seat "shows"
 #'
-#' @return to graphs discrete and continuous, which display the n value of the distribution.
+#' @return two graphs discrete and continuous, which display the n value of the distribution.
 #' @export
 #'
 #' @examples

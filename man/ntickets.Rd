@@ -14,7 +14,7 @@ ntickets(N = 200, gamma = 0.02, p = 0.95)
 \item{p}{an integer between 0<= p <= 1 which is the probability that a seat "shows"}
 }
 \value{
-to graphs discrete and continuous, which display the n value of the distribution.
+two graphs discrete and continuous, which display the n value of the distribution.
 }
 \description{
 The ntickets Function

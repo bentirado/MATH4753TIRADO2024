@@ -2,7 +2,7 @@
 #'
 #' @param x a vector of quantitative data
 #'
-#' @return the mode of x
+#' @return Returns the mode of the vector that is passed as the parameter.
 #' @export
 #'
 #' @examples

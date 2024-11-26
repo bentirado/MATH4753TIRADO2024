@@ -10,7 +10,7 @@ getmode(x)
 \item{x}{a vector of quantitative data}
 }
 \value{
-the mode of x
+Returns the mode of the vector that is passed as the parameter.
 }
 \description{
 The Mode Function

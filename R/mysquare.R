@@ -1,4 +1,4 @@
-#' The Square Function
+#' The Square Function.
 #'
 #' @param x a vector of quantitative data
 #'
